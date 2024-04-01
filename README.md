@@ -17,6 +17,7 @@
 
 ```text
 ANSWER Why not? HERE
+The answers start being wrong around 15 because the factorial of numbers above 15 becomes too large for the data type to handle.
 ```
 
 3. Convert factorial so that it performs its calculation using **BigIntegers** and returns a **BigInteger** as a result.
@@ -27,6 +28,8 @@ ANSWER Why not? HERE
 
 ```text
 ANSWER #4 HERE
+Yes, it is correct to go up to 30 using BigInteger. 
+You can calculate factorials for very large numbers, but the limit is the amount of memory your system has.
 ```
 
 ## Submission
